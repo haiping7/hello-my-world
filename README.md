@@ -1,2 +1,4 @@
-# hello-my-world
-欢迎来到GitHub
+#hello-my-world
+Welcom to GitHub.
+I am root and god this world.
+Have youself!
